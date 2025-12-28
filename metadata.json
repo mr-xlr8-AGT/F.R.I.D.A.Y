@@ -1,0 +1,8 @@
+{
+  "name": "F.R.I.D.A.Y",
+  "description": "An advanced 3D spatial engineering interface powered by Gemini 3.0 Pro for real-time system simulation.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
